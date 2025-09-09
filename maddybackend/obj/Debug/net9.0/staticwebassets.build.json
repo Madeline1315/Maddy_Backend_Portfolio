@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6py5NsJMDz0EpmEVb4rnT9YwGH7vcFfCORFgV8ODYLY=",
+  "Source": "maddybackend",
+  "BasePath": "_content/maddybackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@maddybackend_HostAddress = http://localhost:5216
+
+GET {{maddybackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
